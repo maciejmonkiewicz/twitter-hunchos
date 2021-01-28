@@ -1,5 +1,14 @@
 # Twitter Clone by @hunchos 🚀
 
+### Wykorzystane technologie
+- React (TypeScript)
+- ReactNative
+- Expo (Deploy)
+- Expo Icons
+- React Navigation
+- React Dom
+
+
 ### Instalacja
 ```
 npm install
@@ -16,3 +25,7 @@ lub
 ```
 npm ios
 ```
+
+### Uwaga:
+
+Aplikacja została stworzona tak, że nie nigdzie nie musisz podpinać bazy danych - wszystko zapisuje się w pliku `data/index.ts`
