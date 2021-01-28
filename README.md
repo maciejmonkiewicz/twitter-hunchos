@@ -1,4 +1,4 @@
-# Twitter Clone by @hunchos
+# Twitter Clone by @hunchos 🚀
 
 ### Instalacja
 ```
